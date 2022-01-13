@@ -15,7 +15,7 @@ h1 {
 }
 
 h3 {
-  color: fuchsia;
+  color: rgb(221, 26, 140);
   text-align: center;
 }
 
@@ -26,7 +26,7 @@ h3 {
 
 .about-section {
   padding: 50px;
-  text-align: center;
-  background-color: #c4a86d;
-  color: white;
+  text-align: left;
+  background-color: #bdac87;
+  color: rgb(2, 2, 2);
 }
