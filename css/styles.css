@@ -9,3 +9,8 @@ h1 {
   color: blue;
   text-align: center;
 }
+
+.card {
+  margin: 6px;
+  padding: 6px;
+}
