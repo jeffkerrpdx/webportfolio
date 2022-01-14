@@ -26,8 +26,7 @@ This is a Project that demonstrates my understanding of the Concepts in Week 1 a
 
 ## Known Bugs
 
-* None
-* Other than it hasn't been published yet
+* No Known Bugs
 
 ## License
 MIT License
