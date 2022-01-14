@@ -18,11 +18,11 @@ This is a Project that demonstrates my understanding of the Concepts in Week 1 a
 ## Setup/Installation Requirements
 
 1. Install Git on your computer https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-2. Open up the terminal and create a directory where you would like to house these files
-3. Navigate into the that directory and type "git clone
-4. At that point, the files will be downloaded into the directory that you created
-5. Using your choice of Code Viewer or Code Editing software, open up the index.html file to view the HTML file
-6. If using VS Code, simply type "code ." at the command line and the files will automatically open
+2. Open up the terminal and navigate to your desktop
+3. Enter the command "git clone https://github.com/jeffkerrpdx/portfolio.git"
+4. At that point, the files will be downloaded into a new directory on your desktop called "portfolio"
+5. Using your choice of Code Viewer or Code Editing software, open up the files that you would like to view
+6. If using VS Code, simply type "code ." at the command line and the files will automatically open in your VS Code Editor
 
 ## Known Bugs
 
